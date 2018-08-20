@@ -1,50 +1,18 @@
-p {
-  font-family: 'Libre Baskerville', serif;
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
 }
-
-#page {
-  max-width: 940px;
-  min-width: 720px;
-  margin: 10px auto 10px auto;
-  padding: 20px;
-  background-color: #ffffff;
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
 }
-
-h1 {
-  margin-right: auto;
-  margin-left: auto;
-  text-align: center;
-}
-
-body {
-  background-color: rgb(255, 228, 228);
-}
-
-footer {
-  border-top: 1px solid #000;
-}
-
-footer > p {
-  font-size: smaller;
-}
-
-nav > ul {
-  width: 570px;
-  padding: 15px;
-  margin: 0px auto 0px auto;
-  border-top: 2px solid #000;
-  border-bottom: 1px solid #000;
-  text-align: center;
-}
-
-nav > ul > li {
+blockquote p {
   display: inline;
-  margin: 0px 3px;
-  border-right: 1px solid #000;
-  padding-right: 1em;
-}
-
-nav > ul > li:last-child {
-  border-right: none;
-  padding-right: 0px;
 }

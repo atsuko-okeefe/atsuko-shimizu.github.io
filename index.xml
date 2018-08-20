@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Montessori Bloom</title>
+    <link>https://montessoribloom.org/</link>
+    <description>Recent content on Montessori Bloom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Aug 2018 18:45:34 -0600</lastBuildDate>
+    
+	<atom:link href="https://montessoribloom.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Freedom and Responsibility</title>
+      <link>https://montessoribloom.org/article/freedom_and_responsibility/</link>
+      <pubDate>Sat, 18 Aug 2018 17:52:52 -0600</pubDate>
+      
+      <guid>https://montessoribloom.org/article/freedom_and_responsibility/</guid>
+      <description>We help children prepare for their life not only for middle school or high-school.
+ Dr. Maria Montessori said that her method was to give aid to all aspects of life.
+It was through Dr. Maria Montessori&amp;rsquo;s observations of children that she recognized the constructive power within any human person. That observation made her significantly aware of the importance of liberty. However, it is not liberty on its own that will allow for the positive construction of human beings.</description>
+    </item>
+    
+  </channel>
+</rss>
