@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://montessoribloom.org/article/recommended-books/</loc>
+    <loc>http://montessoribloom.org/guidelines_and_recommendations/</loc>
+    <lastmod>2019-08-18T17:24:21-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://montessoribloom.org/guidelines_and_recommendations/recommended-books/</loc>
     <lastmod>2019-08-11T16:18:00-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://montessoribloom.org/article/observation_guidelines/</loc>
+    <loc>http://montessoribloom.org/guidelines_and_recommendations/observation_guidelines/</loc>
     <lastmod>2019-07-27T16:58:00-06:00</lastmod>
   </url>
   
@@ -104,12 +109,10 @@
   
   <url>
     <loc>http://montessoribloom.org/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://montessoribloom.org/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
