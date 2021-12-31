@@ -1,118 +1,72 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>http://montessoribloom.org/guidelines-and-recommendations/</loc>
+    <loc>https://montessoribloom.org/guidelines-and-recommendations/</loc>
     <lastmod>2019-08-18T17:24:21-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://montessoribloom.org/guidelines-and-recommendations/recommended-books/</loc>
+  </url><url>
+    <loc>https://montessoribloom.org/guidelines-and-recommendations/recommended-books/</loc>
     <lastmod>2019-08-11T16:18:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://montessoribloom.org/guidelines-and-recommendations/observation-guidelines/</loc>
+  </url><url>
+    <loc>https://montessoribloom.org/guidelines-and-recommendations/observation-guidelines/</loc>
     <lastmod>2019-07-27T16:58:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://montessoribloom.org/article/practical_life_exercises/</loc>
+  </url><url>
+    <loc>https://montessoribloom.org/article/practical_life_exercises/</loc>
     <lastmod>2019-07-27T16:47:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://montessoribloom.org/article/second_plane_of_development/</loc>
+  </url><url>
+    <loc>https://montessoribloom.org/article/second_plane_of_development/</loc>
     <lastmod>2019-07-27T16:43:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://montessoribloom.org/article/going_out/</loc>
+  </url><url>
+    <loc>https://montessoribloom.org/article/going_out/</loc>
     <lastmod>2019-07-27T16:38:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://montessoribloom.org/about/</loc>
+  </url><url>
+    <loc>https://montessoribloom.org/about/</loc>
     <lastmod>2019-07-27T16:36:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://montessoribloom.org/newsletter/2019-05/</loc>
-    <lastmod>2019-05-20T00:00:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://montessoribloom.org/newsletter/2019-04/</loc>
-    <lastmod>2019-04-24T00:00:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://montessoribloom.org/newsletter/2019-03/</loc>
-    <lastmod>2019-03-29T00:00:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://montessoribloom.org/newsletter/2019-02/</loc>
-    <lastmod>2019-02-25T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://montessoribloom.org/newsletter/2019-01/</loc>
-    <lastmod>2019-01-25T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://montessoribloom.org/newsletter/2018-12/</loc>
-    <lastmod>2018-12-17T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://montessoribloom.org/newsletter/2018-11/</loc>
-    <lastmod>2018-11-17T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://montessoribloom.org/newsletter/2018-10/</loc>
-    <lastmod>2018-10-17T00:00:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://montessoribloom.org/newsletter/2018-09/</loc>
+  </url><url>
+    <loc>https://montessoribloom.org/newsletter/2019-05/</loc>
+    <lastmod>2019-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://montessoribloom.org/newsletter/2019-04/</loc>
+    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://montessoribloom.org/newsletter/2019-03/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://montessoribloom.org/newsletter/2019-02/</loc>
+    <lastmod>2019-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://montessoribloom.org/newsletter/2019-01/</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://montessoribloom.org/newsletter/2018-12/</loc>
+    <lastmod>2018-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://montessoribloom.org/newsletter/2018-11/</loc>
+    <lastmod>2018-11-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://montessoribloom.org/newsletter/2018-10/</loc>
+    <lastmod>2018-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://montessoribloom.org/newsletter/2018-09/</loc>
     <lastmod>2018-09-23T17:22:21-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://montessoribloom.org/newsletter/</loc>
+  </url><url>
+    <loc>https://montessoribloom.org/newsletter/</loc>
     <lastmod>2018-09-08T18:23:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://montessoribloom.org/newsletter/2018-08/</loc>
+  </url><url>
+    <loc>https://montessoribloom.org/newsletter/2018-08/</loc>
     <lastmod>2018-08-30T18:15:14-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://montessoribloom.org/</loc>
+  </url><url>
+    <loc>https://montessoribloom.org/</loc>
     <lastmod>2018-08-18T18:45:34-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://montessoribloom.org/article/</loc>
+  </url><url>
+    <loc>https://montessoribloom.org/article/</loc>
     <lastmod>2018-08-18T18:42:05-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://montessoribloom.org/article/freedom_and_responsibility/</loc>
+  </url><url>
+    <loc>https://montessoribloom.org/article/freedom_and_responsibility/</loc>
     <lastmod>2018-08-18T17:52:52-06:00</lastmod>
+  </url><url>
+    <loc>https://montessoribloom.org/categories/</loc>
+  </url><url>
+    <loc>https://montessoribloom.org/tags/</loc>
   </url>
-  
-  <url>
-    <loc>http://montessoribloom.org/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://montessoribloom.org/tags/</loc>
-  </url>
-  
 </urlset>

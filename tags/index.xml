@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Montessori Bloom</title>
-    <link>http://montessoribloom.org/tags/</link>
+    <link>https://montessoribloom.org/tags/</link>
     <description>Recent content in Tags on Montessori Bloom</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Montessori Bloom and Atsuko O&#39;Keefe</copyright>
-    
-	<atom:link href="http://montessoribloom.org/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Montessori Bloom and Atsuko O&#39;Keefe</copyright><atom:link href="https://montessoribloom.org/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
